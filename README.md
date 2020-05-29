@@ -1,4 +1,4 @@
-#Face Recognition
+# Face Recognition
 - Face Recognition using OpenCV in Python
 
 ## How to use:-
