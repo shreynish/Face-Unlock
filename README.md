@@ -1,5 +1,5 @@
 # Face Recognition
-- Face Unlock using OpenCV in Python
+- Face Unlock using OpenCV in Python.
 
 ## How to use:-
 - Place some face sample images in folder(*You have to specify the path*) using FaceSamples.py which you will use to unlock.
