@@ -11,5 +11,4 @@
 - Use the given haar face classifier.
 
 ## Programming Language
-
-- Python
+- Python.
