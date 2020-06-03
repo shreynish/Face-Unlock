@@ -9,3 +9,7 @@
 ## NOTE:-
 - Install all the required python modules and then run.
 - Use the given haar face classifier.
+
+## Programming Language
+
+- Python
